@@ -11,6 +11,6 @@
 * **Web:** HTML, CSS
 * **Tools & Technologies:** MySQL, Maven (MVN), Git, GitHub, Figma
 
-📫 Email: **[madushankasadun778@gmail.com](mailto:madushankasadun778@gmail.com)**
+📫 Email: **[rasikamadushanka2005@gmail.com](mailto:rasikamadushanka2005@gmail.com)**
 
 ⭐ Always learning and building new projects.
